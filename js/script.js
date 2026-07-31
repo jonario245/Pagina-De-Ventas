@@ -1,6 +1,6 @@
 // Mensaje al cargar la página
 window.addEventListener("load", () => {
-    alert("¡Bienvenido a la Página de Ventas!");
+   alert("¡Bienvenido! Sitio actualizado con JavaScript.");
 });
 
 // Cambiar el título al hacer clic
